@@ -4,8 +4,8 @@
   "description": "image search engine",
   "main": "index.js",
   "type": "module",
-  "repository": "https://github.com/asuka-405/SearchIO.git",
-  "author": "Suryansh Kapil <suryanshkapil405@gmail.com>",
+  "repository": "https://github.com/maXime1109/Search_IO.git",
+  "author": "Shivam Mishra <shivammishra070502@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon index.js"
